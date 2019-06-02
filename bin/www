@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('esfsm:server');
+var debug = require('debug')('conviteformaturamct:server');
 var http = require('http');
 
 /**
