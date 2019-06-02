@@ -6,14 +6,13 @@ router.get('/', function(req, res){
     res.render('index', {message: null});
 });
 router.post('/',function(req, res, next){
-        var user = req.body.user;
         var password = req.body.password;
 
         //teste
-        if(user == "ds@ds.com" && password == "123"){
-            res.render('index', { snackbar: 'OK' });
+        if(password == "#euvou"){
+            res.render('index', { snackbar: 'Bem vindo!' });
         }else{
-            res.render('index', { snackbar: 'E-mail e/ou senha inválidos!' });
+            res.render('index', { snackbar: 'Codigo de acesso invalido' });
         }
     }
 );
