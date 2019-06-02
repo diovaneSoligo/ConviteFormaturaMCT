@@ -10,7 +10,7 @@ router.post('/',function(req, res, next){
 
         //teste
         if(password == "#euvou"){
-            res.render('index', { snackbar: 'Bem vindo!' });
+            res.render('convite', { snackbar: 'Bem vindo!' });
         }else{
             res.render('index', { snackbar: 'Codigo de acesso invalido' });
         }
