@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/conteudo/colacao.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/conteudo/hotel.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/conteudo/recepcao.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/comum/footer_conteudo.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/comum/footer_conteudo.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/convite.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/convite.ejs" afterDir="false" />
     </list>
     <list id="7c628c97-c598-469c-b319-6b4767ce4f1a" name="não comitavel" comment="não comitavel" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -128,36 +131,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="ejs" value="22" />
+          <entry key="ejs" value="32" />
           <entry key="jpg" value="8" />
-          <entry key="js" value="10" />
+          <entry key="js" value="12" />
           <entry key="png" value="4" />
+          <entry key="ts" value="2" />
           <entry key="www" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="EJS" value="22" />
+          <entry key="EJS" value="32" />
           <entry key="Image" value="12" />
-          <entry key="JavaScript" value="11" />
+          <entry key="JavaScript" value="13" />
+          <entry key="TypeScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="2" />
-          <entry key="ejs" value="2660" />
-          <entry key="js" value="109" />
-          <entry key="txt" value="40" />
+          <entry key="ejs" value="2900" />
+          <entry key="js" value="171" />
+          <entry key="txt" value="52" />
           <entry key="www" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="EJS" value="2660" />
-          <entry key="JavaScript" value="140" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="EJS" value="2900" />
+          <entry key="JavaScript" value="202" />
+          <entry key="PLAIN_TEXT" value="52" />
         </counts>
       </usages-collector>
     </session>
@@ -170,29 +175,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/comum/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="93" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="93" />
+            <state relative-caret-position="289">
+              <caret line="38" lean-forward="true" selection-start-line="3" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/login.js">
+        <entry file="file://$PROJECT_DIR$/views/convite.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+            <state relative-caret-position="102">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/conteudo/colacao.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/conteudo/recepcao.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/comum/footer_conteudo.ejs">
+        <entry file="file://$PROJECT_DIR$/views/conteudo/hotel.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -240,15 +269,18 @@
         <option value="$PROJECT_DIR$/views/comum/menu.ejs" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/bin/www" />
-        <option value="$PROJECT_DIR$/views/convite.ejs" />
-        <option value="$PROJECT_DIR$/routes/login.js" />
         <option value="$PROJECT_DIR$/views/error.ejs" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/comum/footer.ejs" />
         <option value="$PROJECT_DIR$/views/comum/top.ejs" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/views/comum/index.ejs" />
         <option value="$PROJECT_DIR$/views/comum/footer_conteudo.ejs" />
+        <option value="$PROJECT_DIR$/routes/login.js" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/views/convite.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/colacao.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/recepcao.ejs" />
+        <option value="$PROJECT_DIR$/views/conteudo/hotel.ejs" />
       </list>
     </option>
   </component>
@@ -311,6 +343,12 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="comum" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ConviteFormaturaMCT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConviteFormaturaMCT" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="conteudo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -326,18 +364,18 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DioS\Documents\GitHub\ConviteFormaturaMCT\public\js" />
+      <recent name="C:\Users\DioS\Documents\GitHub\ConviteFormaturaMCT\public" />
+      <recent name="C:\Users\DioS\Documents\GitHub\esfsm\public\video" />
+      <recent name="C:\Users\DioS\Documents\GitHub\esfsm\public\img" />
+      <recent name="D:\node\esfsm\views\comum" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DioS\Documents\GitHub\ConviteFormaturaMCT\views\comum" />
       <recent name="D:\node\esfsm\routes" />
       <recent name="D:\node\esfsm\views" />
       <recent name="C:\Users\DioS\Documents\GitHub\esfsm\public\video" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DioS\Documents\GitHub\ConviteFormaturaMCT\public" />
-      <recent name="C:\Users\DioS\Documents\GitHub\esfsm\public\video" />
-      <recent name="C:\Users\DioS\Documents\GitHub\esfsm\public\img" />
-      <recent name="D:\node\esfsm\views\comum" />
-      <recent name="D:\node\esfsm\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -399,7 +437,7 @@
       <workItem from="1554078192937" duration="122000" />
       <workItem from="1559503645508" duration="11634000" />
       <workItem from="1559957766973" duration="2921000" />
-      <workItem from="1560105511749" duration="2157000" />
+      <workItem from="1560105511749" duration="5724000" />
     </task>
     <task id="LOCAL-00001" summary="pg">
       <created>1543000570531</created>
@@ -674,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559962574003</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="index e modal ok">
+      <created>1560110149419</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1560110149419</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117372000" />
+    <option name="totallyTimeSpent" value="120939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -691,12 +736,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.32569557" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.41080198" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49809885" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49809885" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49936628" weight="0.32733223" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49936628" visible="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50190115" side_tool="true" weight="0.3342318" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -767,7 +812,8 @@
     <MESSAGE value="imagem" />
     <MESSAGE value="index" />
     <MESSAGE value="index ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="index ok" />
+    <MESSAGE value="index e modal ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="index e modal ok" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -819,35 +865,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/users.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/http-errors/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-548">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
@@ -966,13 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/comum/top.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3005">
@@ -980,17 +990,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/convite.ejs">
+    <entry file="file://$PROJECT_DIR$/public/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="34">
+          <caret line="4" column="358" selection-start-line="4" selection-start-column="358" selection-end-line="4" selection-end-column="358" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="17">
+          <caret line="688" column="4" selection-start-line="688" selection-start-column="4" selection-end-line="688" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/comum/top.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1003,25 +1027,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/comum/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="93" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="93" />
+        <state relative-caret-position="289">
+          <caret line="38" lean-forward="true" selection-start-line="3" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/login.js">
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/comum/footer_conteudo.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="34" lean-forward="true" selection-start-line="2" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/convite.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/recepcao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/colacao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/conteudo/hotel.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
