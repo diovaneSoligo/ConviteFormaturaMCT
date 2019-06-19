@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d6f381d-ee34-4001-a373-3deef0566521" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/conteudo/hotel.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/conteudo/hotel.ejs" afterDir="false" />
     </list>
     <list id="7c628c97-c598-469c-b319-6b4767ce4f1a" name="não comitavel" comment="não comitavel" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -119,6 +118,7 @@
     <session id="-1890240692">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.55" value="1" />
@@ -372,7 +372,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dianasoligopsicologia" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -452,14 +452,7 @@
       <workItem from="1554078192937" duration="122000" />
       <workItem from="1559503645508" duration="11634000" />
       <workItem from="1559957766973" duration="2921000" />
-      <workItem from="1560105511749" duration="11827000" />
-    </task>
-    <task id="LOCAL-00001" summary="pg">
-      <created>1543000570531</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1543000570531</updated>
+      <workItem from="1560105511749" duration="12290000" />
     </task>
     <task id="LOCAL-00002" summary="footer">
       <created>1543318476917</created>
@@ -797,11 +790,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560207880806</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="ajustes informações">
+      <created>1560208022499</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1560208022499</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127042000" />
+    <option name="totallyTimeSpent" value="127505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
